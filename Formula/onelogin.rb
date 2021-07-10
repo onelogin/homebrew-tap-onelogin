@@ -2,7 +2,7 @@ class Onelogin < Formula
   desc "CLI for Using OneLogin"
   homepage "https://github.com/onelogin/onelogin"
   url "https://github.com/onelogin/onelogin/archive/refs/tags/v0.1.17.tar.gz"
-  sha256 "5689b232e7dc825764d84789b5789357e3fbbf9df8090edfcca300974e2666ee"
+  sha256 "96df1bba8da743cf66a9e7dc39654b1f162813f072277b34cbb1c3950c12ea1a"
   license "Apache-2.0"
   head "https://github.com/onelogin/onelogin.git", branch: "develop"
 
